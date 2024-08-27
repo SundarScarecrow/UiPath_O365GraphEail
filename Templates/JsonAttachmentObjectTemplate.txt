@@ -1,0 +1,1 @@
+{ "@odata.type": "#microsoft.graph.fileAttachment", "name": "##FileNameWithExtn", "contentType": "##FileContentType", "contentBytes": "##contentBase64String" }

@@ -1,0 +1,1 @@
+{ "message": { "subject": "##subject", "body": { "contentType": "HTML", "content": "##bodyHTML" }##torecepients##ccrecepients##bccrecepients##attachments}, "saveToSentItems": "true" }
